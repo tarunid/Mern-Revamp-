@@ -5,4 +5,4 @@
    attribute- define how it behave
 5) html entries are the copyright symbol and element example &#169;
 6)meta tag is an information to tell more about the page
-7)<img> tag
+7) img tag
